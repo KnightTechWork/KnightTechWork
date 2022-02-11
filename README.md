@@ -3,7 +3,7 @@ Hi, I'm Randy Knight. Welcome to my profile readme.
 About Me,
 
     🎓 I am currently pursuing Web Development courses.
-    🌱 I am currently learning **JavaScript** and also interested in Ruby on Rails.
+    🌱 I am currently learning JavaScript and also interested in Ruby on Rails.
     🎯 My Goal is to make a career change into Front End Web Development.
     ✨ I enjoy creating different types of content.
 

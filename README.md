@@ -8,23 +8,23 @@
 
 ### About Me:
 
-- 🎓 I am currently pursuing **Web Development** courses.
-- 🌱 I am currently learning **JavaScript**, **Python**, and also interested in **Ruby on Rails**.
+- 🎓 I am currently taking **Web Development** courses.
+- 🌱 I am also learning **JavaScript**, **Python**, and **Ruby on Rails**.
 - 🎯 My Goal is to make a career change into ***Front End Web Development***.
 - ✨ I enjoy creating different types of content.
 - :man_technologist: You can follow me at the below links
 
 <div id="badges">
 
-  <a href=">https://www.linkedin.com/in/randellknight/">
+  <a href="https://www.linkedin.com/in/randellknight/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href=">https://www.youtube.com/channel/UCo1NrXKaaJ4oQnss5MGQPuQ">
+  <a href="https://www.youtube.com/channel/UCo1NrXKaaJ4oQnss5MGQPuQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 
-  <a href=">https://twitter.com/Iloathetwatter1">
+  <a href="https://twitter.com/Iloathetwatter1">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 

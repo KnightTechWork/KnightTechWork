@@ -15,5 +15,3 @@
 
 </tr>
 </table>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#your-username&theme=dracula&hide_border=true)

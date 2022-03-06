@@ -11,14 +11,14 @@
 
 ***About Me***
 
-- 👔 Like to work with web technologies such as; **JavaScript** and **Python**
+- 👔 Like to work with web technologies such as; **JavaScript**, **Python**, and **Rust**
 - ✨ Enjoy creating different types of content
 - 🎓 **Advanced Cybersecurity Certificate** from the University of Phoenix
 - ✔️ Familiar with, and *regularly* use, Windows 10 and 11, MacOS, and Ubuntu Linux
 - 🌱 Lifelong learner who enjoys "all things tech"
 - 📦 Open-source enthusiast
 - 🌄 Fun fact about me: I love to travel, and went all over the world while in the military
-- 🎯 Goal - Career change to ***Front End Web Development***
+- 🎯 Goal - Career change to ***Web Development***
 - 👨🏻‍💻 Connect with me 🗣
 
 ![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)

@@ -11,7 +11,7 @@
 
 ***About Me***
 
-- 👔 Like to work with web technologies such as; **JavaScript**, **Python**, and **Rust**
+- 👔 Like to work with programming languages such as; **JavaScript**, **Python**, and **Rust**
 - ✨ Enjoy creating different types of content
 - 🎓 **Advanced Cybersecurity Certificate** from the University of Phoenix
 - ✔️ Familiar with, and *regularly* use, Windows 10 and 11, MacOS, and Ubuntu Linux

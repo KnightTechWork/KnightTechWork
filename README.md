@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
   </a>
 
-  <a href="https://stackoverflow.com/users/9393640/randwulf">
+  <a href="https://meta.stackoverflow.com/users/9393640/knight-tech">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
   </a>
 

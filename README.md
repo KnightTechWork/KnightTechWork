@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
   </a>
 
-  <a href="https://www.reddit.com/user/superhotpepperz">
+  <a href="https://www.reddit.com/r/KnightTechWork/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
 
@@ -90,11 +90,11 @@
 
 #### :fire: My Activity on GitHub :octocat:
 
-[![RandKn's github activity graph](https://activity-graph.herokuapp.com/graph?username=RandKn)](https://github.com/RandKn/github-readme-activity-graph)
+[![KnightTechWork's github activity graph](https://activity-graph.herokuapp.com/graph?username=KnightTechWork)](https://github.com/KnightTechWork/github-readme-activity-graph)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=randkn&count_private=true&theme=blue-green&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KnightTechWork&count_private=true&theme=blue-green&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=randkn&langs_count=5&theme=blue-green)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KnightTechWork&langs_count=5&theme=blue-green)]()
 
 ---
 

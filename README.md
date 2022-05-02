@@ -101,23 +101,21 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+  
+---
 
 <div class="devcard d-flex">
   <a href="https://app.daily.dev/Randwulf"><img src="<a href="https://app.daily.dev/Randwulf"><img src="https://api.daily.dev/devcards/7ce33e4730d0494c9d97a4103881b999.png?r=0ca" width="400" alt="Randall Knight's Dev Card"/></a>"
 </div>
 
-<br>
+---
 
 <div class="myDiv">
-
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)/>
-</p>
 
 <p align="left">
   <h3>Thanks for stopping by and have a wonderful day! 😃</h3>
 </p>
 
 </div>
-<body>
+</body>
 </html>

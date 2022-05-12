@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="center" width="200"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&width=500&lines=Hi%2C+I'm+Randy+Knight+%F0%9F%91%8B+Welcome)](https://git.io/typing-svg)
 
@@ -11,14 +11,14 @@
 
 ***About Me***
 
-- 👔 Like to work with programming languages such as; **JavaScript**, **Python**, and **Rust**
-- ✨ Enjoy creating different types of content
+- 👔 I Like to work with programming languages such as; **JavaScript**, **Python**, and **Rust**
+- ✨ I Enjoy creating different types of content
 - 🎓 **Advanced Cybersecurity Certificate** from the University of Phoenix
-- ✔️ Familiar with, and *regularly* use, Windows 10 and 11, MacOS, and Ubuntu Linux
-- 🌱 Lifelong learner who enjoys "all things tech"
-- 📦 Open-source enthusiast
+- ✔️ I'm Familiar with, and *regularly* use, Windows 10 and 11, MacOS, and Ubuntu Linux
+- 🌱 A Lifelong learner who enjoys "all things tech"
+- 📦 An Open-source enthusiast
 - 🌄 Fun fact about me: I love to travel, and went all over the world while in the military
-- 👨🏻‍💻 Connect with me 🗣
+- 👨🏻‍💻 Let's connect! 🗣
 
 ![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
 
@@ -58,7 +58,7 @@
 
 🧰 Toolbox
 
-<p title="My Tech Stack and Tools">My Tech Stack and Tools</p>
+<p title="The Tech Stack and Tools I've Worked With">The Tech Stack and Tools I've Worked With</p>
 
 <div id="html">
 
@@ -104,7 +104,7 @@
   
 ---
 
-<div class="devcard d-flex">
+<div class="devcard d-flex" align="center">
   <a href="https://app.daily.dev/Randwulf"><img src="<a href="https://app.daily.dev/Randwulf"><img src="https://api.daily.dev/devcards/7ce33e4730d0494c9d97a4103881b999.png?r=0ca" width="400" alt="Randall Knight's Dev Card"/></a>"
 </div>
 

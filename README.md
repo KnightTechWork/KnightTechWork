@@ -2,9 +2,10 @@
 <html>
 <head>
 
-<p>
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" class="centerImage" alt="Work from home gif">
-</p>
+<div style="background-image: url('https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif');
+background-size: cover; height:480px; padding-top: 80px; text-align: center;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="height:150px; border-radius: 50%; border: 10px solid #FEDE00;">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&width=500&lines=Hi%2C+I'm+Randy+Knight+%F0%9F%91%8B+Welcome)](https://git.io/typing-svg)
 

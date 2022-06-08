@@ -4,9 +4,7 @@
 
 <div align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" class="centerImage" alt="Work from home gif">
-</div>
     
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&width=500&lines=Hello%2C+I'm+Randy+Knight+%F0%9F%91%8B+Welcome)](https://git.io/typing-svg)
 </div>
 

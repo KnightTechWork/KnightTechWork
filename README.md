@@ -4,10 +4,12 @@
 
 <div align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" class="centerImage" alt="Work from home gif">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&width=500&lines=Hi%2C+I'm+Randy+Knight+%F0%9F%91%8B+Welcome)](https://git.io/typing-svg)
-
 </div>
+    
+    <p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&width=500&lines=Hello%2C+I'm+Randy+Knight+%F0%9F%91%8B+Welcome)](https://git.io/typing-svg)
+    </p>
+
 </head>
 <body>
 
@@ -16,7 +18,7 @@
 - 👔 I Like to work with programming languages such as; **JavaScript**, **Python**, and **Rust**
 - ✨ I Enjoy creating different types of content
 - 🎓 **Advanced Cybersecurity Certificate** from the University of Phoenix
-- ✔️ I'm Familiar with, and *regularly* use, Windows 10 and 11, MacOS, and Ubuntu Linux
+- ✔️ I'm Familiar with Windows 10 and 11, MacOS, RHEL, Arch and Ubuntu Linux (I usually run all linux distros in VM's or WSL).
 - 🌱 A Lifelong learner who enjoys "all things tech"
 - 📦 An Open-source enthusiast
 - 🌄 Fun fact about me: I love to travel, and went all over the world while in the military

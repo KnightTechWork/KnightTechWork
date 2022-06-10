@@ -122,8 +122,6 @@
 
 ---
 
-	<div>
-		<h1>Glad you visited my Github profile readme!</h1>
-	</div>
+<h1>Glad you visited my Github profile readme!</h1>
 </body>
 </html>

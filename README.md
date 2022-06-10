@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
   
-  <a href="https://www.codetriage.com/mdn/content"
+  <a href="https://www.codetriage.com/mdn/content">
   [![Open Source Helpers](https://www.codetriage.com/mdn/content/badges/users.svg)](https://www.codetriage.com/mdn/content)
   </a>
 

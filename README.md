@@ -122,7 +122,7 @@
 
 ---
 
-	<div align="middle">
+	<div>
 		<h1>Glad you visited my Github profile readme!</h1>
 	</div>
 </body>

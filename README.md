@@ -3,9 +3,9 @@
 <head>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" class="centerImage" alt="Work from home gif">
+<a href="#"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" class="centerImage" alt="Work from home gif"></a>
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&width=500&lines=Hello%2C+I'm+Randy+Knight+%F0%9F%91%8B+Welcome)](https://git.io/typing-svg)
+<a href="#"><[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&width=500&lines=Hello%2C+I'm+Randy+Knight+%F0%9F%91%8B+Welcome)](https://git.io/typing-svg) class="centerText"></a>
 </div>
 
 </head>
@@ -22,7 +22,7 @@
 - 🌄 Fun fact about me: I love to travel, and went all over the world while in the military
 - 👨🏻‍💻 Let's connect! 🗣
 
-![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg)
+<a href="#"><![](https://cdn.hackernoon.com/images/ckxz-5-f-75-v-00-z-00-as-638-qw-6-ofc.jpg) class="centerImage"></a>
 
 <div id="badges">
 
@@ -31,7 +31,7 @@
   </a>
 
   <a href="https://github.com/KnightTechWork">
-    <imf src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 
   <a href="https://twitter.com/KnightTechWork">
@@ -100,12 +100,13 @@
 ---
 
 #### :fire: My Activity on GitHub :octocat:
-
+<div align="center">
 [![KnightTechWork's github activity graph](https://activity-graph.herokuapp.com/graph?username=KnightTechWork)](https://github.com/KnightTechWork/github-readme-activity-graph)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KnightTechWork&count_private=true&theme=blue-green&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KnightTechWork&langs_count=5&theme=blue-green)]()
+</div>
 
 ---
 
@@ -116,11 +117,11 @@
 ---
 
 <div class="devcard d-flex" align="center">
-  <a href="https://app.daily.dev/Randwulf"><img src="<a href="https://app.daily.dev/Randwulf"><img src="https://api.daily.dev/devcards/7ce33e4730d0494c9d97a4103881b999.png?r=0ca" width="400" alt="Randall Knight's Dev Card"/></a>"
+<a href="https://app.daily.dev/Randwulf"><img src="<a href="https://app.daily.dev/Randwulf"><img src="https://api.daily.dev/devcards/7ce33e4730d0494c9d97a4103881b999.png?r=0ca" width="400" alt="Randall Knight's Dev Card"/></a>"
 </div>
 
 ---
 
-<h1>Glad you visited my Github profile readme!</h1>
+<h1>I'm glad you visited my Github profile readme!</h1>
 </body>
 </html>
